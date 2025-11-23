@@ -93,20 +93,35 @@ pip install -r requirements.txt
 
 ### 2. Configure API Keys
 
-Create a `.env` file in the project root:
+Copy the example file and add your API keys:
 
 ```bash
-# OpenAI
-OPENAI_API_KEY=your_openai_key_here
+# Copy the template
+cp .env.example .env
 
-# Anthropic
-ANTHROPIC_API_KEY=your_anthropic_key_here
-
-# HuggingFace (optional)
-HUGGINGFACE_API_KEY=your_hf_key_here
+# Edit with your real API keys
+nano .env  # or use your preferred editor
 ```
 
-**Important**: Never commit your `.env` file! It's already in `.gitignore`.
+Example `.env` file:
+```bash
+# OpenAI
+OPENAI_API_KEY=sk-proj-xxxxx...
+
+# Anthropic
+ANTHROPIC_API_KEY=sk-ant-xxxxx...
+
+# HuggingFace (optional)
+HUGGINGFACE_API_KEY=hf_xxxxx...
+```
+
+**🔒 Security**: Never commit your `.env` file! It's already in `.gitignore`.
+
+**📚 Need help getting API keys?** See the comprehensive [API Keys Setup Guide](docs/API_KEYS_GUIDE.md) for:
+- Step-by-step instructions for each provider
+- Pricing information and free tier details
+- Troubleshooting authentication errors
+- Cost estimation for evaluations
 
 ### 3. Run Evaluation
 
@@ -305,6 +320,8 @@ prompt_registry.add_template('custom', CustomPrompt())
 
 ## 📖 Documentation
 
+- **🔐 Security Guide**: [SECURITY.md](SECURITY.md) - API key management and security best practices
+- **🔑 API Keys Setup**: [docs/API_KEYS_GUIDE.md](docs/API_KEYS_GUIDE.md) - How to get and configure API keys
 - **Project Structure**: [docs/structure.md](docs/structure.md)
 - **Evaluation Guide**: [docs/evaluation.md](docs/evaluation.md)
 - **API Reference**: [docs/api.md](docs/api.md)
