@@ -1,0 +1,860 @@
+{
+  "summary": {
+    "total_files": 105,
+    "successful": 105,
+    "failed": 0,
+    "total_chars_removed": 2035,
+    "issues_fixed": {
+      "html_tags": 6344,
+      "citations": 381,
+      "tables": 0,
+      "infoboxes": 0,
+      "special_chars": 12,
+      "whitespace": 1654,
+      "encoding_errors": 0
+    }
+  },
+  "files": [
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Rugby.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Sports_Rugby.txt",
+      "original_size": 1395,
+      "cleaned_size": 323,
+      "reduction": 1072,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Big_Bang.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Science_Big_Bang.txt",
+      "original_size": 1448,
+      "cleaned_size": 372,
+      "reduction": 1076,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_General_Relativity.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Science_General_Relativity.txt",
+      "original_size": 1477,
+      "cleaned_size": 393,
+      "reduction": 1084,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Computer_Vision.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Technology_Computer_Vision.txt",
+      "original_size": 1427,
+      "cleaned_size": 407,
+      "reduction": 1020,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Mediterranean_Sea.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Geography_Mediterranean_Sea.txt",
+      "original_size": 1425,
+      "cleaned_size": 369,
+      "reduction": 1056,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Himalayas.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Geography_Himalayas.txt",
+      "original_size": 1398,
+      "cleaned_size": 353,
+      "reduction": 1045,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Diplomacy.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Politics_Diplomacy.txt",
+      "original_size": 1435,
+      "cleaned_size": 359,
+      "reduction": 1076,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Internet_of_Things.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Technology_Internet_of_Things.txt",
+      "original_size": 1435,
+      "cleaned_size": 412,
+      "reduction": 1023,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Antarctica.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Geography_Antarctica.txt",
+      "original_size": 1401,
+      "cleaned_size": 355,
+      "reduction": 1046,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_JavaScript.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Technology_JavaScript.txt",
+      "original_size": 1411,
+      "cleaned_size": 396,
+      "reduction": 1015,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Mongol_Empire.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/History_Mongol_Empire.txt",
+      "original_size": 1443,
+      "cleaned_size": 361,
+      "reduction": 1082,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Neural_Network.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Technology_Neural_Network.txt",
+      "original_size": 1457,
+      "cleaned_size": 404,
+      "reduction": 1053,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Human_Rights.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Politics_Human_Rights.txt",
+      "original_size": 1444,
+      "cleaned_size": 365,
+      "reduction": 1079,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Opera.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Arts_Opera.txt",
+      "original_size": 1368,
+      "cleaned_size": 364,
+      "reduction": 1004,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Theatre.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Arts_Theatre.txt",
+      "original_size": 1373,
+      "cleaned_size": 367,
+      "reduction": 1006,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Wimbledon.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Sports_Wimbledon.txt",
+      "original_size": 1373,
+      "cleaned_size": 331,
+      "reduction": 1042,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Periodic_Table.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Science_Periodic_Table.txt",
+      "original_size": 1433,
+      "cleaned_size": 385,
+      "reduction": 1048,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Mount_Everest.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Geography_Mount_Everest.txt",
+      "original_size": 1444,
+      "cleaned_size": 361,
+      "reduction": 1083,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_International_Law.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Politics_International_Law.txt",
+      "original_size": 1427,
+      "cleaned_size": 375,
+      "reduction": 1052,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Modernism.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Arts_Modernism.txt",
+      "original_size": 1478,
+      "cleaned_size": 371,
+      "reduction": 1107,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Cricket.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Sports_Cricket.txt",
+      "original_size": 1367,
+      "cleaned_size": 327,
+      "reduction": 1040,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Climate_Change.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Science_Climate_Change.txt",
+      "original_size": 1464,
+      "cleaned_size": 384,
+      "reduction": 1080,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Big_Data.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Technology_Big_Data.txt",
+      "original_size": 1437,
+      "cleaned_size": 392,
+      "reduction": 1045,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Monarchy.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Politics_Monarchy.txt",
+      "original_size": 1371,
+      "cleaned_size": 357,
+      "reduction": 1014,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Deep_Learning.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Technology_Deep_Learning.txt",
+      "original_size": 1516,
+      "cleaned_size": 402,
+      "reduction": 1114,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Great_Lakes.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Geography_Great_Lakes.txt",
+      "original_size": 1407,
+      "cleaned_size": 358,
+      "reduction": 1049,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Cybersecurity.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Technology_Cybersecurity.txt",
+      "original_size": 1423,
+      "cleaned_size": 402,
+      "reduction": 1021,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Plate_Tectonics.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Science_Plate_Tectonics.txt",
+      "original_size": 1469,
+      "cleaned_size": 386,
+      "reduction": 1083,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Constitution.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Politics_Constitution.txt",
+      "original_size": 1447,
+      "cleaned_size": 366,
+      "reduction": 1081,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Evolution.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Science_Evolution.txt",
+      "original_size": 1420,
+      "cleaned_size": 374,
+      "reduction": 1046,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Mariana_Trench.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Geography_Mariana_Trench.txt",
+      "original_size": 1385,
+      "cleaned_size": 364,
+      "reduction": 1021,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Pacific_Ocean.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Geography_Pacific_Ocean.txt",
+      "original_size": 1381,
+      "cleaned_size": 361,
+      "reduction": 1020,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_French_Revolution.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/History_French_Revolution.txt",
+      "original_size": 1454,
+      "cleaned_size": 369,
+      "reduction": 1085,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Great_Barrier_Reef.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Geography_Great_Barrier_Reef.txt",
+      "original_size": 1462,
+      "cleaned_size": 372,
+      "reduction": 1090,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Golf.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Sports_Golf.txt",
+      "original_size": 1326,
+      "cleaned_size": 321,
+      "reduction": 1005,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Renaissance.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/History_Renaissance.txt",
+      "original_size": 1404,
+      "cleaned_size": 357,
+      "reduction": 1047,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Neuroscience.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Science_Neuroscience.txt",
+      "original_size": 1458,
+      "cleaned_size": 380,
+      "reduction": 1078,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Amazon_Rainforest.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Geography_Amazon_Rainforest.txt",
+      "original_size": 1486,
+      "cleaned_size": 369,
+      "reduction": 1117,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Tennis.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Sports_Tennis.txt",
+      "original_size": 1397,
+      "cleaned_size": 326,
+      "reduction": 1071,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Super_Bowl.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Sports_Super_Bowl.txt",
+      "original_size": 1376,
+      "cleaned_size": 333,
+      "reduction": 1043,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Artificial_Intelligence.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Technology_Artificial_Intelligence.txt",
+      "original_size": 1514,
+      "cleaned_size": 422,
+      "reduction": 1092,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Socialism.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Politics_Socialism.txt",
+      "original_size": 1374,
+      "cleaned_size": 359,
+      "reduction": 1015,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Baroque.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Arts_Baroque.txt",
+      "original_size": 1406,
+      "cleaned_size": 368,
+      "reduction": 1038,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Football.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Sports_Football.txt",
+      "original_size": 1338,
+      "cleaned_size": 329,
+      "reduction": 1009,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Quantum_Mechanics.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Science_Quantum_Mechanics.txt",
+      "original_size": 1410,
+      "cleaned_size": 391,
+      "reduction": 1019,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Boxing.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Sports_Boxing.txt",
+      "original_size": 1428,
+      "cleaned_size": 325,
+      "reduction": 1103,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Industrial_Revolution.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/History_Industrial_Revolution.txt",
+      "original_size": 1402,
+      "cleaned_size": 379,
+      "reduction": 1023,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_American_Football.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Sports_American_Football.txt",
+      "original_size": 1366,
+      "cleaned_size": 348,
+      "reduction": 1018,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Literature.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Arts_Literature.txt",
+      "original_size": 1383,
+      "cleaned_size": 374,
+      "reduction": 1009,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Leonardo_da_Vinci.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Arts_Leonardo_da_Vinci.txt",
+      "original_size": 1403,
+      "cleaned_size": 387,
+      "reduction": 1016,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_World_War_II.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/History_World_War_II.txt",
+      "original_size": 1469,
+      "cleaned_size": 359,
+      "reduction": 1110,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Atlantic_Ocean.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Geography_Atlantic_Ocean.txt",
+      "original_size": 1445,
+      "cleaned_size": 363,
+      "reduction": 1082,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Ottoman_Empire.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/History_Ottoman_Empire.txt",
+      "original_size": 1444,
+      "cleaned_size": 364,
+      "reduction": 1080,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Formula_One.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Sports_Formula_One.txt",
+      "original_size": 1411,
+      "cleaned_size": 335,
+      "reduction": 1076,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Python.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Technology_Python.txt",
+      "original_size": 1495,
+      "cleaned_size": 388,
+      "reduction": 1107,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Sahara.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Geography_Sahara.txt",
+      "original_size": 1389,
+      "cleaned_size": 347,
+      "reduction": 1042,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Baseball.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Sports_Baseball.txt",
+      "original_size": 1370,
+      "cleaned_size": 329,
+      "reduction": 1041,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_British_Empire.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/History_British_Empire.txt",
+      "original_size": 1382,
+      "cleaned_size": 364,
+      "reduction": 1018,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_UEFA_Champions_League.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Sports_UEFA_Champions_League.txt",
+      "original_size": 1474,
+      "cleaned_size": 356,
+      "reduction": 1118,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_NATO.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Politics_NATO.txt",
+      "original_size": 1356,
+      "cleaned_size": 349,
+      "reduction": 1007,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Cold_War.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/History_Cold_War.txt",
+      "original_size": 1395,
+      "cleaned_size": 351,
+      "reduction": 1044,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_FIFA_World_Cup.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Sports_FIFA_World_Cup.txt",
+      "original_size": 1356,
+      "cleaned_size": 341,
+      "reduction": 1015,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_American_Civil_War.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/History_American_Civil_War.txt",
+      "original_size": 1391,
+      "cleaned_size": 371,
+      "reduction": 1020,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Impressionism.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Arts_Impressionism.txt",
+      "original_size": 1427,
+      "cleaned_size": 380,
+      "reduction": 1047,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Pablo_Picasso.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Arts_Pablo_Picasso.txt",
+      "original_size": 1391,
+      "cleaned_size": 379,
+      "reduction": 1012,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Classical_Music.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Arts_Classical_Music.txt",
+      "original_size": 1493,
+      "cleaned_size": 383,
+      "reduction": 1110,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Roman_Empire.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/History_Roman_Empire.txt",
+      "original_size": 1374,
+      "cleaned_size": 360,
+      "reduction": 1014,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Cell_Biology.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Science_Cell_Biology.txt",
+      "original_size": 1458,
+      "cleaned_size": 380,
+      "reduction": 1078,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Federalism.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Politics_Federalism.txt",
+      "original_size": 1439,
+      "cleaned_size": 362,
+      "reduction": 1077,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Nile.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Geography_Nile.txt",
+      "original_size": 1351,
+      "cleaned_size": 343,
+      "reduction": 1008,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Age_of_Enlightenment.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/History_Age_of_Enlightenment.txt",
+      "original_size": 1464,
+      "cleaned_size": 376,
+      "reduction": 1088,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Data_Science.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Technology_Data_Science.txt",
+      "original_size": 1449,
+      "cleaned_size": 400,
+      "reduction": 1049,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Viking_Age.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/History_Viking_Age.txt",
+      "original_size": 1431,
+      "cleaned_size": 355,
+      "reduction": 1076,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Genetics.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Science_Genetics.txt",
+      "original_size": 1446,
+      "cleaned_size": 372,
+      "reduction": 1074,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Byzantine_Empire.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/History_Byzantine_Empire.txt",
+      "original_size": 1387,
+      "cleaned_size": 367,
+      "reduction": 1020,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Hip_Hop.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Arts_Hip_Hop.txt",
+      "original_size": 1373,
+      "cleaned_size": 367,
+      "reduction": 1006,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_European_Union.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Politics_European_Union.txt",
+      "original_size": 1386,
+      "cleaned_size": 369,
+      "reduction": 1017,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Machine_Learning.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Technology_Machine_Learning.txt",
+      "original_size": 1493,
+      "cleaned_size": 408,
+      "reduction": 1085,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Olympics.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Sports_Olympics.txt",
+      "original_size": 1435,
+      "cleaned_size": 330,
+      "reduction": 1105,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Rock_Music.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Arts_Rock_Music.txt",
+      "original_size": 1382,
+      "cleaned_size": 373,
+      "reduction": 1009,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Ecosystem.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Science_Ecosystem.txt",
+      "original_size": 1417,
+      "cleaned_size": 374,
+      "reduction": 1043,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Quantum_Computing.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Technology_Quantum_Computing.txt",
+      "original_size": 1496,
+      "cleaned_size": 410,
+      "reduction": 1086,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Basketball.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Sports_Basketball.txt",
+      "original_size": 1344,
+      "cleaned_size": 333,
+      "reduction": 1011,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Natural_Language_Processing.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Technology_Natural_Language_Processing.txt",
+      "original_size": 1494,
+      "cleaned_size": 430,
+      "reduction": 1064,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Abstract_Art.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Arts_Abstract_Art.txt",
+      "original_size": 1421,
+      "cleaned_size": 378,
+      "reduction": 1043,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_DNA.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Science_DNA.txt",
+      "original_size": 1400,
+      "cleaned_size": 363,
+      "reduction": 1037,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Renaissance_Art.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Arts_Renaissance_Art.txt",
+      "original_size": 1429,
+      "cleaned_size": 383,
+      "reduction": 1046,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Communism.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Politics_Communism.txt",
+      "original_size": 1500,
+      "cleaned_size": 360,
+      "reduction": 1140,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Cloud_Computing.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Technology_Cloud_Computing.txt",
+      "original_size": 1493,
+      "cleaned_size": 406,
+      "reduction": 1087,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Blockchain.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Technology_Blockchain.txt",
+      "original_size": 1478,
+      "cleaned_size": 397,
+      "reduction": 1081,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Grand_Canyon.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Geography_Grand_Canyon.txt",
+      "original_size": 1375,
+      "cleaned_size": 359,
+      "reduction": 1016,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Photosynthesis.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Science_Photosynthesis.txt",
+      "original_size": 1400,
+      "cleaned_size": 384,
+      "reduction": 1016,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Thermodynamics.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Science_Thermodynamics.txt",
+      "original_size": 1498,
+      "cleaned_size": 384,
+      "reduction": 1114,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Political_Party.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Politics_Political_Party.txt",
+      "original_size": 1392,
+      "cleaned_size": 372,
+      "reduction": 1020,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Arctic.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Geography_Arctic.txt",
+      "original_size": 1421,
+      "cleaned_size": 347,
+      "reduction": 1074,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Black_Hole.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Science_Black_Hole.txt",
+      "original_size": 1420,
+      "cleaned_size": 376,
+      "reduction": 1044,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Republic.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Politics_Republic.txt",
+      "original_size": 1432,
+      "cleaned_size": 357,
+      "reduction": 1075,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Democracy.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Politics_Democracy.txt",
+      "original_size": 1438,
+      "cleaned_size": 359,
+      "reduction": 1079,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Jazz.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Arts_Jazz.txt",
+      "original_size": 1366,
+      "cleaned_size": 361,
+      "reduction": 1005,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Ancient_Egypt.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/History_Ancient_Egypt.txt",
+      "original_size": 1473,
+      "cleaned_size": 362,
+      "reduction": 1111,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Andes.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Geography_Andes.txt",
+      "original_size": 1355,
+      "cleaned_size": 346,
+      "reduction": 1009,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_United_Nations.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Politics_United_Nations.txt",
+      "original_size": 1389,
+      "cleaned_size": 369,
+      "reduction": 1020,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Capitalism.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Politics_Capitalism.txt",
+      "original_size": 1439,
+      "cleaned_size": 362,
+      "reduction": 1077,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Ancient_Greece.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/History_Ancient_Greece.txt",
+      "original_size": 1444,
+      "cleaned_size": 364,
+      "reduction": 1080,
+      "status": "success"
+    },
+    {
+      "input_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Vincent_van_Gogh.html",
+      "output_file": "/home/user/LLM-evaluation/llm-squad-project/data/processed/wikipedia_clean/Arts_Vincent_van_Gogh.txt",
+      "original_size": 1434,
+      "cleaned_size": 385,
+      "reduction": 1049,
+      "status": "success"
+    }
+  ],
+  "cleaned_at": "2025-11-23T10:41:50.800839"
+}

@@ -1,0 +1,13 @@
+{
+  "total_contexts": 105,
+  "noised_contexts": 30,
+  "noise_percentage": 28.57142857142857,
+  "noise_types": {
+    "typos": 3,
+    "capitalization": 3,
+    "missing_punctuation": 2,
+    "extra_whitespace": 15,
+    "encoding_errors": 0,
+    "total_contexts_noised": 30
+  }
+}

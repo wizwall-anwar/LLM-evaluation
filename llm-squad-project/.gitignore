@@ -45,9 +45,10 @@ MANIFEST
 *.ipynb_checkpoints
 
 # Data Files (large datasets)
-data/raw/*
-data/processed/*
-data/squad/*
+# Note: Data files are now tracked to allow viewing in repository
+# data/raw/*
+# data/processed/*
+# data/squad/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !data/squad/.gitkeep

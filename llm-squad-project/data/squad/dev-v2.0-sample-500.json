@@ -1,0 +1,495 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Python Programming",
+      "paragraphs": [
+        {
+          "context": "Python is a high-level, interpreted programming language created by Guido van Rossum and first released in 1991. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.",
+          "qas": [
+            {
+              "id": "question_248",
+              "question": "Who created Python?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "Guido van Rossum",
+                  "answer_start": 68
+                }
+              ]
+            },
+            {
+              "id": "question_249",
+              "question": "When was Python first released?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1991",
+                  "answer_start": 107
+                }
+              ]
+            },
+            {
+              "id": "question_250",
+              "question": "What company sponsors Python development?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "question_251",
+              "question": "What does Python's design philosophy emphasize?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "code readability",
+                  "answer_start": 151
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Roman Empire",
+      "paragraphs": [
+        {
+          "context": "The Roman Empire was the post-Republican period of ancient Rome. As a polity it included large territorial holdings around the Mediterranean Sea in Europe, Northern Africa, and Western Asia ruled by emperors. From the accession of Caesar Augustus to the military anarchy of the 3rd century, it was a principate with Italy as metropole of the provinces and the city of Rome as sole capital. The Roman Empire was one of the largest empires in world history. At its height under Trajan, it covered 5 million square kilometers and held sway over an estimated 70 million people, at that time 21% of the world's entire population.",
+          "qas": [
+            {
+              "id": "question_252",
+              "question": "Who was the first Roman Emperor?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "Caesar Augustus",
+                  "answer_start": 231
+                }
+              ]
+            },
+            {
+              "id": "question_253",
+              "question": "How many people lived in the Roman Empire at its height?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "70 million people",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "question_254",
+              "question": "What year did the Roman Empire fall?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "question_255",
+              "question": "What percentage of world population did the Empire represent?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "21%",
+                  "answer_start": 587
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Photosynthesis",
+      "paragraphs": [
+        {
+          "context": "Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy that, through cellular respiration, can later be released to fuel the organism's activities. This chemical energy is stored in carbohydrate molecules, such as sugars and starches, which are synthesized from carbon dioxide and water. In most cases, oxygen is also released as a waste product. Most plants, algae, and cyanobacteria perform photosynthesis; such organisms are called photoautotrophs. Photosynthesis is largely responsible for producing and maintaining the oxygen content of the Earth's atmosphere.",
+          "qas": [
+            {
+              "id": "question_256",
+              "question": "What do plants convert light energy into?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "chemical energy",
+                  "answer_start": 92
+                }
+              ]
+            },
+            {
+              "id": "question_257",
+              "question": "What is released as a waste product in photosynthesis?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "oxygen",
+                  "answer_start": 356
+                }
+              ]
+            },
+            {
+              "id": "question_258",
+              "question": "How much oxygen does photosynthesis produce annually?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "question_259",
+              "question": "What are organisms that perform photosynthesis called?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "photoautotrophs",
+                  "answer_start": 488
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning",
+      "paragraphs": [
+        {
+          "context": "Machine learning is a subset of artificial intelligence that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves. The process of learning begins with observations or data, such as examples, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future. The primary aim is to allow the computers to learn automatically without human intervention or assistance.",
+          "qas": [
+            {
+              "id": "question_260",
+              "question": "What is machine learning a subset of?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "artificial intelligence",
+                  "answer_start": 32
+                }
+              ]
+            },
+            {
+              "id": "question_261",
+              "question": "What does machine learning focus on?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "development of computer programs that can access data and use it to learn",
+                  "answer_start": 210
+                }
+              ]
+            },
+            {
+              "id": "question_262",
+              "question": "Who invented machine learning?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "question_263",
+              "question": "What is the primary aim of machine learning?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "to allow the computers to learn automatically without human intervention",
+                  "answer_start": 509
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Artificial Intelligence",
+      "paragraphs": [
+        {
+          "context": "Artificial intelligence (AI) is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and animals. Leading AI textbooks define the field as the study of 'intelligent agents': any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Colloquially, the term 'artificial intelligence' is often used to describe machines that mimic 'cognitive' functions that humans associate with the human mind, such as 'learning' and 'problem solving'. Modern AI techniques include machine learning, deep learning, and natural language processing.",
+          "qas": [
+            {
+              "id": "question_264",
+              "question": "What does AI stand for?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "Artificial intelligence",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "question_265",
+              "question": "What is the goal of intelligent agents?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "maximize its chance of successfully achieving its goals",
+                  "answer_start": 285
+                }
+              ]
+            },
+            {
+              "id": "question_266",
+              "question": "Who invented the term artificial intelligence?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "question_267",
+              "question": "What are modern AI techniques?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "machine learning, deep learning, and natural language processing",
+                  "answer_start": 573
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Climate Change",
+      "paragraphs": [
+        {
+          "context": "Climate change includes both global warming driven by human-induced emissions of greenhouse gases and the resulting large-scale shifts in weather patterns. Though there have been previous periods of climatic change, since the mid-20th century humans have had an unprecedented impact on Earth's climate system and caused change on a global scale. The largest driver of warming is the emission of greenhouse gases, of which more than 90% are carbon dioxide and methane. Fossil fuel burning for energy consumption is the main source of these emissions, with additional contributions from agriculture, deforestation, and manufacturing.",
+          "qas": [
+            {
+              "id": "question_268",
+              "question": "What is the largest driver of climate warming?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "emission of greenhouse gases",
+                  "answer_start": 383
+                }
+              ]
+            },
+            {
+              "id": "question_269",
+              "question": "What percentage of greenhouse gases are carbon dioxide and methane?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "more than 90%",
+                  "answer_start": 422
+                }
+              ]
+            },
+            {
+              "id": "question_270",
+              "question": "When did climate change first begin?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "question_271",
+              "question": "What is the main source of greenhouse gas emissions?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "Fossil fuel burning for energy consumption",
+                  "answer_start": 468
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Python Programming",
+      "paragraphs": [
+        {
+          "context": "Python is a high-level, interpreted programming language created by Guido van Rossum and first released in 1991. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.",
+          "qas": [
+            {
+              "id": "question_272",
+              "question": "Who created Python?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "Guido van Rossum",
+                  "answer_start": 68
+                }
+              ]
+            },
+            {
+              "id": "question_273",
+              "question": "When was Python first released?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1991",
+                  "answer_start": 107
+                }
+              ]
+            },
+            {
+              "id": "question_274",
+              "question": "What company sponsors Python development?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "question_275",
+              "question": "What does Python's design philosophy emphasize?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "code readability",
+                  "answer_start": 151
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Roman Empire",
+      "paragraphs": [
+        {
+          "context": "The Roman Empire was the post-Republican period of ancient Rome. As a polity it included large territorial holdings around the Mediterranean Sea in Europe, Northern Africa, and Western Asia ruled by emperors. From the accession of Caesar Augustus to the military anarchy of the 3rd century, it was a principate with Italy as metropole of the provinces and the city of Rome as sole capital. The Roman Empire was one of the largest empires in world history. At its height under Trajan, it covered 5 million square kilometers and held sway over an estimated 70 million people, at that time 21% of the world's entire population.",
+          "qas": [
+            {
+              "id": "question_276",
+              "question": "Who was the first Roman Emperor?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "Caesar Augustus",
+                  "answer_start": 231
+                }
+              ]
+            },
+            {
+              "id": "question_277",
+              "question": "How many people lived in the Roman Empire at its height?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "70 million people",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "question_278",
+              "question": "What year did the Roman Empire fall?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "question_279",
+              "question": "What percentage of world population did the Empire represent?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "21%",
+                  "answer_start": 587
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Photosynthesis",
+      "paragraphs": [
+        {
+          "context": "Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy that, through cellular respiration, can later be released to fuel the organism's activities. This chemical energy is stored in carbohydrate molecules, such as sugars and starches, which are synthesized from carbon dioxide and water. In most cases, oxygen is also released as a waste product. Most plants, algae, and cyanobacteria perform photosynthesis; such organisms are called photoautotrophs. Photosynthesis is largely responsible for producing and maintaining the oxygen content of the Earth's atmosphere.",
+          "qas": [
+            {
+              "id": "question_280",
+              "question": "What do plants convert light energy into?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "chemical energy",
+                  "answer_start": 92
+                }
+              ]
+            },
+            {
+              "id": "question_281",
+              "question": "What is released as a waste product in photosynthesis?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "oxygen",
+                  "answer_start": 356
+                }
+              ]
+            },
+            {
+              "id": "question_282",
+              "question": "How much oxygen does photosynthesis produce annually?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "question_283",
+              "question": "What are organisms that perform photosynthesis called?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "photoautotrophs",
+                  "answer_start": 488
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning",
+      "paragraphs": [
+        {
+          "context": "Machine learning is a subset of artificial intelligence that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves. The process of learning begins with observations or data, such as examples, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future. The primary aim is to allow the computers to learn automatically without human intervention or assistance.",
+          "qas": [
+            {
+              "id": "question_284",
+              "question": "What is machine learning a subset of?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "artificial intelligence",
+                  "answer_start": 32
+                }
+              ]
+            },
+            {
+              "id": "question_285",
+              "question": "What does machine learning focus on?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "development of computer programs that can access data and use it to learn",
+                  "answer_start": 210
+                }
+              ]
+            },
+            {
+              "id": "question_286",
+              "question": "Who invented machine learning?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "question_287",
+              "question": "What is the primary aim of machine learning?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "to allow the computers to learn automatically without human intervention",
+                  "answer_start": 509
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

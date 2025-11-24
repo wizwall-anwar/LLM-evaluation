@@ -1,0 +1,1454 @@
+[
+  {
+    "title": "Artificial Intelligence",
+    "topic": "Technology",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Artificial_Intelligence.html",
+    "scraped_at": "2025-11-23T10:40:50.300629",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Machine Learning",
+    "topic": "Technology",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Machine_Learning.html",
+    "scraped_at": "2025-11-23T10:40:50.301248",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Deep Learning",
+    "topic": "Technology",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Deep_Learning.html",
+    "scraped_at": "2025-11-23T10:40:50.301846",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Neural Network",
+    "topic": "Technology",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Neural_Network.html",
+    "scraped_at": "2025-11-23T10:40:50.302441",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Natural Language Processing",
+    "topic": "Technology",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Natural_Language_Processing.html",
+    "scraped_at": "2025-11-23T10:40:50.303117",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Computer Vision",
+    "topic": "Technology",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Computer_Vision.html",
+    "scraped_at": "2025-11-23T10:40:50.303681",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Quantum Computing",
+    "topic": "Technology",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Quantum_Computing.html",
+    "scraped_at": "2025-11-23T10:40:50.304179",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Blockchain",
+    "topic": "Technology",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Blockchain.html",
+    "scraped_at": "2025-11-23T10:40:50.304639",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Internet of Things",
+    "topic": "Technology",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Internet_of_Things.html",
+    "scraped_at": "2025-11-23T10:40:50.305189",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Cloud Computing",
+    "topic": "Technology",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Cloud_Computing.html",
+    "scraped_at": "2025-11-23T10:40:50.305658",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Cybersecurity",
+    "topic": "Technology",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Cybersecurity.html",
+    "scraped_at": "2025-11-23T10:40:50.306202",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Data Science",
+    "topic": "Technology",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Data_Science.html",
+    "scraped_at": "2025-11-23T10:40:50.306676",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Big Data",
+    "topic": "Technology",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Big_Data.html",
+    "scraped_at": "2025-11-23T10:40:50.307253",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Python",
+    "topic": "Technology",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_Python.html",
+    "scraped_at": "2025-11-23T10:40:50.307704",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "JavaScript",
+    "topic": "Technology",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Technology_JavaScript.html",
+    "scraped_at": "2025-11-23T10:40:50.308240",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "World War II",
+    "topic": "History",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_World_War_II.html",
+    "scraped_at": "2025-11-23T10:40:50.308894",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Renaissance",
+    "topic": "History",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Renaissance.html",
+    "scraped_at": "2025-11-23T10:40:50.309393",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Industrial Revolution",
+    "topic": "History",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Industrial_Revolution.html",
+    "scraped_at": "2025-11-23T10:40:50.309827",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Ancient Egypt",
+    "topic": "History",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Ancient_Egypt.html",
+    "scraped_at": "2025-11-23T10:40:50.310307",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Roman Empire",
+    "topic": "History",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Roman_Empire.html",
+    "scraped_at": "2025-11-23T10:40:50.310750",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "French Revolution",
+    "topic": "History",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_French_Revolution.html",
+    "scraped_at": "2025-11-23T10:40:50.311216",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Cold War",
+    "topic": "History",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Cold_War.html",
+    "scraped_at": "2025-11-23T10:40:50.311699",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "American Civil War",
+    "topic": "History",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_American_Civil_War.html",
+    "scraped_at": "2025-11-23T10:40:50.312148",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Age of Enlightenment",
+    "topic": "History",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Age_of_Enlightenment.html",
+    "scraped_at": "2025-11-23T10:40:50.312578",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Ancient Greece",
+    "topic": "History",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Ancient_Greece.html",
+    "scraped_at": "2025-11-23T10:40:50.313066",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Viking Age",
+    "topic": "History",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Viking_Age.html",
+    "scraped_at": "2025-11-23T10:40:50.313504",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Byzantine Empire",
+    "topic": "History",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Byzantine_Empire.html",
+    "scraped_at": "2025-11-23T10:40:50.313991",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Ottoman Empire",
+    "topic": "History",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Ottoman_Empire.html",
+    "scraped_at": "2025-11-23T10:40:50.314566",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Mongol Empire",
+    "topic": "History",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_Mongol_Empire.html",
+    "scraped_at": "2025-11-23T10:40:50.315116",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "British Empire",
+    "topic": "History",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/History_British_Empire.html",
+    "scraped_at": "2025-11-23T10:40:50.315585",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Photosynthesis",
+    "topic": "Science",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Photosynthesis.html",
+    "scraped_at": "2025-11-23T10:40:50.316268",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Evolution",
+    "topic": "Science",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Evolution.html",
+    "scraped_at": "2025-11-23T10:40:50.316686",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "DNA",
+    "topic": "Science",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_DNA.html",
+    "scraped_at": "2025-11-23T10:40:50.317181",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Quantum Mechanics",
+    "topic": "Science",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Quantum_Mechanics.html",
+    "scraped_at": "2025-11-23T10:40:50.317632",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "General Relativity",
+    "topic": "Science",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_General_Relativity.html",
+    "scraped_at": "2025-11-23T10:40:50.318017",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Climate Change",
+    "topic": "Science",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Climate_Change.html",
+    "scraped_at": "2025-11-23T10:40:50.318371",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Plate Tectonics",
+    "topic": "Science",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Plate_Tectonics.html",
+    "scraped_at": "2025-11-23T10:40:50.318965",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Periodic Table",
+    "topic": "Science",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Periodic_Table.html",
+    "scraped_at": "2025-11-23T10:40:50.319491",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Cell Biology",
+    "topic": "Science",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Cell_Biology.html",
+    "scraped_at": "2025-11-23T10:40:50.319901",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Ecosystem",
+    "topic": "Science",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Ecosystem.html",
+    "scraped_at": "2025-11-23T10:40:50.320315",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Black Hole",
+    "topic": "Science",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Black_Hole.html",
+    "scraped_at": "2025-11-23T10:40:50.320646",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Big Bang",
+    "topic": "Science",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Big_Bang.html",
+    "scraped_at": "2025-11-23T10:40:50.321383",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Genetics",
+    "topic": "Science",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Genetics.html",
+    "scraped_at": "2025-11-23T10:40:50.321768",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Neuroscience",
+    "topic": "Science",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Neuroscience.html",
+    "scraped_at": "2025-11-23T10:40:50.322226",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Thermodynamics",
+    "topic": "Science",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Science_Thermodynamics.html",
+    "scraped_at": "2025-11-23T10:40:50.322723",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Football",
+    "topic": "Sports",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Football.html",
+    "scraped_at": "2025-11-23T10:40:50.323347",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Basketball",
+    "topic": "Sports",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Basketball.html",
+    "scraped_at": "2025-11-23T10:40:50.323765",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Cricket",
+    "topic": "Sports",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Cricket.html",
+    "scraped_at": "2025-11-23T10:40:50.324260",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Tennis",
+    "topic": "Sports",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Tennis.html",
+    "scraped_at": "2025-11-23T10:40:50.324662",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Baseball",
+    "topic": "Sports",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Baseball.html",
+    "scraped_at": "2025-11-23T10:40:50.325136",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "American Football",
+    "topic": "Sports",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_American_Football.html",
+    "scraped_at": "2025-11-23T10:40:50.325715",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Olympics",
+    "topic": "Sports",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Olympics.html",
+    "scraped_at": "2025-11-23T10:40:50.326272",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "FIFA World Cup",
+    "topic": "Sports",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_FIFA_World_Cup.html",
+    "scraped_at": "2025-11-23T10:40:50.326849",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "UEFA Champions League",
+    "topic": "Sports",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_UEFA_Champions_League.html",
+    "scraped_at": "2025-11-23T10:40:50.327391",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Super Bowl",
+    "topic": "Sports",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Super_Bowl.html",
+    "scraped_at": "2025-11-23T10:40:50.327928",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Wimbledon",
+    "topic": "Sports",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Wimbledon.html",
+    "scraped_at": "2025-11-23T10:40:50.328349",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Rugby",
+    "topic": "Sports",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Rugby.html",
+    "scraped_at": "2025-11-23T10:40:50.328884",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Golf",
+    "topic": "Sports",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Golf.html",
+    "scraped_at": "2025-11-23T10:40:50.329399",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Boxing",
+    "topic": "Sports",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Boxing.html",
+    "scraped_at": "2025-11-23T10:40:50.329922",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Formula One",
+    "topic": "Sports",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Sports_Formula_One.html",
+    "scraped_at": "2025-11-23T10:40:50.330336",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Democracy",
+    "topic": "Politics",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Democracy.html",
+    "scraped_at": "2025-11-23T10:40:50.330953",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Communism",
+    "topic": "Politics",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Communism.html",
+    "scraped_at": "2025-11-23T10:40:50.331599",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Capitalism",
+    "topic": "Politics",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Capitalism.html",
+    "scraped_at": "2025-11-23T10:40:50.332075",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Socialism",
+    "topic": "Politics",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Socialism.html",
+    "scraped_at": "2025-11-23T10:40:50.332466",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "United Nations",
+    "topic": "Politics",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_United_Nations.html",
+    "scraped_at": "2025-11-23T10:40:50.333053",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "European Union",
+    "topic": "Politics",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_European_Union.html",
+    "scraped_at": "2025-11-23T10:40:50.333600",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "NATO",
+    "topic": "Politics",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_NATO.html",
+    "scraped_at": "2025-11-23T10:40:50.334084",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Constitution",
+    "topic": "Politics",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Constitution.html",
+    "scraped_at": "2025-11-23T10:40:50.334566",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Human Rights",
+    "topic": "Politics",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Human_Rights.html",
+    "scraped_at": "2025-11-23T10:40:50.335029",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Monarchy",
+    "topic": "Politics",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Monarchy.html",
+    "scraped_at": "2025-11-23T10:40:50.335393",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Republic",
+    "topic": "Politics",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Republic.html",
+    "scraped_at": "2025-11-23T10:40:50.335972",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Federalism",
+    "topic": "Politics",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Federalism.html",
+    "scraped_at": "2025-11-23T10:40:50.336518",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Diplomacy",
+    "topic": "Politics",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Diplomacy.html",
+    "scraped_at": "2025-11-23T10:40:50.336990",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "International Law",
+    "topic": "Politics",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_International_Law.html",
+    "scraped_at": "2025-11-23T10:40:50.337445",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Political Party",
+    "topic": "Politics",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Politics_Political_Party.html",
+    "scraped_at": "2025-11-23T10:40:50.337935",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Renaissance Art",
+    "topic": "Arts",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Renaissance_Art.html",
+    "scraped_at": "2025-11-23T10:40:50.338524",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Impressionism",
+    "topic": "Arts",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Impressionism.html",
+    "scraped_at": "2025-11-23T10:40:50.339032",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Baroque",
+    "topic": "Arts",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Baroque.html",
+    "scraped_at": "2025-11-23T10:40:50.339452",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Modernism",
+    "topic": "Arts",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Modernism.html",
+    "scraped_at": "2025-11-23T10:40:50.339895",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Abstract Art",
+    "topic": "Arts",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Abstract_Art.html",
+    "scraped_at": "2025-11-23T10:40:50.340428",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Leonardo da Vinci",
+    "topic": "Arts",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Leonardo_da_Vinci.html",
+    "scraped_at": "2025-11-23T10:40:50.340887",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Vincent van Gogh",
+    "topic": "Arts",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Vincent_van_Gogh.html",
+    "scraped_at": "2025-11-23T10:40:50.341513",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Pablo Picasso",
+    "topic": "Arts",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Pablo_Picasso.html",
+    "scraped_at": "2025-11-23T10:40:50.342475",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Classical Music",
+    "topic": "Arts",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Classical_Music.html",
+    "scraped_at": "2025-11-23T10:40:50.343487",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Jazz",
+    "topic": "Arts",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Jazz.html",
+    "scraped_at": "2025-11-23T10:40:50.344232",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Rock Music",
+    "topic": "Arts",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Rock_Music.html",
+    "scraped_at": "2025-11-23T10:40:50.344840",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Hip Hop",
+    "topic": "Arts",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Hip_Hop.html",
+    "scraped_at": "2025-11-23T10:40:50.345390",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Opera",
+    "topic": "Arts",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Opera.html",
+    "scraped_at": "2025-11-23T10:40:50.345854",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Theatre",
+    "topic": "Arts",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Theatre.html",
+    "scraped_at": "2025-11-23T10:40:50.346371",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Literature",
+    "topic": "Arts",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Arts_Literature.html",
+    "scraped_at": "2025-11-23T10:40:50.346874",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Mount Everest",
+    "topic": "Geography",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Mount_Everest.html",
+    "scraped_at": "2025-11-23T10:40:50.347540",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Amazon Rainforest",
+    "topic": "Geography",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Amazon_Rainforest.html",
+    "scraped_at": "2025-11-23T10:40:50.348004",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Sahara",
+    "topic": "Geography",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Sahara.html",
+    "scraped_at": "2025-11-23T10:40:50.348432",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Pacific Ocean",
+    "topic": "Geography",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Pacific_Ocean.html",
+    "scraped_at": "2025-11-23T10:40:50.349062",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Atlantic Ocean",
+    "topic": "Geography",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Atlantic_Ocean.html",
+    "scraped_at": "2025-11-23T10:40:50.349529",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Nile",
+    "topic": "Geography",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Nile.html",
+    "scraped_at": "2025-11-23T10:40:50.349918",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Antarctica",
+    "topic": "Geography",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Antarctica.html",
+    "scraped_at": "2025-11-23T10:40:50.350510",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Arctic",
+    "topic": "Geography",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Arctic.html",
+    "scraped_at": "2025-11-23T10:40:50.351036",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Great Barrier Reef",
+    "topic": "Geography",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Great_Barrier_Reef.html",
+    "scraped_at": "2025-11-23T10:40:50.351641",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Himalayas",
+    "topic": "Geography",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Himalayas.html",
+    "scraped_at": "2025-11-23T10:40:50.352129",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Andes",
+    "topic": "Geography",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Andes.html",
+    "scraped_at": "2025-11-23T10:40:50.352590",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Mediterranean Sea",
+    "topic": "Geography",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Mediterranean_Sea.html",
+    "scraped_at": "2025-11-23T10:40:50.353157",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Great Lakes",
+    "topic": "Geography",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Great_Lakes.html",
+    "scraped_at": "2025-11-23T10:40:50.353797",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Mariana Trench",
+    "topic": "Geography",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Mariana_Trench.html",
+    "scraped_at": "2025-11-23T10:40:50.354383",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has special_characters",
+      "Has whitespace_issues"
+    ],
+    "status": "success"
+  },
+  {
+    "title": "Grand Canyon",
+    "topic": "Geography",
+    "html_file": "/home/user/LLM-evaluation/llm-squad-project/data/raw/wikipedia_raw/Geography_Grand_Canyon.html",
+    "scraped_at": "2025-11-23T10:40:50.354816",
+    "issues_found": [
+      "Contains 1 infobox",
+      "Contains 1 table",
+      "Contains 2 citations",
+      "Has citations",
+      "Has special_characters"
+    ],
+    "status": "success"
+  }
+]

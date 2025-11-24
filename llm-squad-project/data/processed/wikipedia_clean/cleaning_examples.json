@@ -1,0 +1,17 @@
+[
+  {
+    "file": "Sports_Rugby.html",
+    "before": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>Rugby - Wikipedia</title>\n</head>\n<body>\n    <div id=\"mw-content-text\">\n        <div class=\"mw-parser-output\">\n            <table class=\"infobox\">\n                <tbody>\n                    <tr><th colspan=\"2\" class=\"infobox-above\">Rugby</th></tr>\n                    <tr><td colspan=\"2\">Random Info: Data here</td></tr>\n                </tbody>\n            </table>\n\n            <p>Rugby is \n a popular sport enjoyed by ",
+    "after": "Rugby - Wikipedia\n\nRugby is\na popular sport enjoyed by millions worldwide. The game requires skill, strategy, and physical fitness. Professional athletes train extensively to compete at the highest levels. Major tournaments and championships attract global audiences and media coverage.\n\nReferences\n\nReference 1\nReference 2"
+  },
+  {
+    "file": "Science_Big_Bang.html",
+    "before": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>Big Bang - Wikipedia</title>\n</head>\n<body>\n    <div id=\"mw-content-text\">\n        <div class=\"mw-parser-output\">\n            <table class=\"infobox\">\n                <tbody>\n                    <tr><th colspan=\"2\" class=\"infobox-above\">Big Bang</th></tr>\n                    <tr><td colspan=\"2\">Random Info: Data here</td></tr>\n                </tbody>\n            </table>\n\n            <p>Big Bang is an important concept",
+    "after": "Big Bang - Wikipedia\n\nBig Bang is an important concept in scientific understanding. The phenomenon was first observed in the early scientific\ninvestigations and has been studied extensively since then. Modern research uses advanced technology to explore the underlying mechanisms. Scientists continue to make discoveries in this field.\n\nReferences\n\nReference 1\nReference 2"
+  },
+  {
+    "file": "Science_General_Relativity.html",
+    "before": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>General Relativity - Wikipedia</title>\n</head>\n<body>\n    <div id=\"mw-content-text\">\n        <div class=\"mw-parser-output\">\n            <table class=\"infobox\">\n                <tbody>\n                    <tr><th colspan=\"2\" class=\"infobox-above\">General Relativity</th></tr>\n                    <tr><td colspan=\"2\">Random Info: Data here</td></tr>\n                </tbody>\n            </table>\n\n            <p>General Rela",
+    "after": "General Relativity - Wikipedia\n\nGeneral Relativity is an importa-nt concept in scientific understanding. The phenomenon was first observed in the early scientific investigations and has been studied extensively since then. Modern research uses advanced technology to explore the underlying mechanisms. Scientists continue to make discoveries in this field.\n\nReferences\n\nReference 1\nReference 2"
+  }
+]
