@@ -123,7 +123,17 @@ HUGGINGFACE_API_KEY=hf_xxxxx...
 - Troubleshooting authentication errors
 - Cost estimation for evaluations
 
-### 3. Run Evaluation
+### 3. Test API Credentials
+
+Before running evaluations, verify your API keys are configured correctly:
+
+```bash
+python test_api_credentials.py
+```
+
+This will test all configured API credentials and confirm they're working.
+
+### 4. Run Evaluation
 
 #### Quick Test (Mock Client - No API Costs)
 ```bash
@@ -145,12 +155,45 @@ python src/evaluation/evaluate_llm.py \
   --max-questions 50
 ```
 
-### 4. Visualize Results
+#### Batch Evaluation (Multiple Models & Datasets)
+Run comprehensive evaluations across multiple models and datasets:
 
+```bash
+# Mock models only (free, fast - good for testing)
+python src/evaluation/run_batch_evaluation.py --mock-only
+
+# Include real API models (costs money)
+python src/evaluation/run_batch_evaluation.py --real-models
+
+# Limit questions for quick tests
+python src/evaluation/run_batch_evaluation.py --mock-only --max-questions 20
+```
+
+The batch evaluator will:
+- Run evaluations across all datasets (SQuAD, Wikipedia Clean, Wikipedia Noisy)
+- Test multiple prompt templates (zero_shot, robust)
+- Generate comparison visualizations automatically
+- Save all results to the `results/` directory
+
+### 5. Visualize Results
+
+#### Single Dataset Visualization
 ```bash
 python src/evaluation/visualize_results.py \
   --results-dir results/wikipedia_noisy
 ```
+
+#### Compare All Results
+The batch evaluation automatically generates visualizations in each dataset folder:
+- `results/squad/visualizations/`
+- `results/wikipedia_clean/visualizations/`
+- `results/wikipedia_noisy/visualizations/`
+
+Each includes:
+- Performance comparison charts
+- Answerability confusion matrices
+- Comparison tables
+- Performance metrics summaries
 
 ## 📊 Datasets
 
@@ -279,18 +322,25 @@ python src/data_wrangling/add_noise.py
 
 ## 📊 Visual Metrics
 
-The visualization module generates:
+The visualization module generates comprehensive charts for analysis:
 
 - **Performance Comparison**: EM and F1 scores across models/prompts
-- **Answerability Analysis**: Confusion matrices and accuracy metrics
-- **Time/Cost Analysis**: Response time and token usage
-- **Error Analysis**: Common failure patterns
-- **Noise Impact**: Performance degradation charts
+- **Answerability Confusion Matrix**: Visual breakdown of answerability detection accuracy
+- **Comparison Table**: Side-by-side metrics for all evaluated models
+- **Performance Metrics**: Detailed breakdown of all evaluation metrics
 
-Example visualizations:
+### Available Visualizations
 
-![Model Comparison](docs/images/model_comparison.png)
-![Noise Impact](docs/images/noise_impact.png)
+After running batch evaluation, visualizations are automatically generated in:
+- `results/squad/visualizations/` - SQuAD 2.0 benchmark results
+- `results/wikipedia_clean/visualizations/` - Clean Wikipedia evaluation
+- `results/wikipedia_noisy/visualizations/` - Noisy data robustness testing
+
+Each visualization set includes:
+1. `performance_comparison.png` - Bar charts comparing models
+2. `answerability_confusion_matrix.png` - Confusion matrix heatmap
+3. `comparison_table.png` - Tabular metrics summary
+4. `performance_metrics.png` - Comprehensive metrics dashboard
 
 ## 📚 Key Insights
 
@@ -353,12 +403,20 @@ MIT License - see LICENSE file
 
 ## 🚀 Roadmap
 
-- [ ] More LLM providers (Cohere, AI21)
+### ✅ Completed
+- [x] Batch evaluation across multiple models and datasets
+- [x] Comprehensive visualization suite
+- [x] API credential testing and validation
+- [x] Claude Haiku 3.5 support
+- [x] Mock client for cost-free testing
+
+### 🎯 Planned
+- [ ] More LLM providers (Cohere, AI21, Gemini)
 - [ ] Hyperparameter tuning
 - [ ] Multi-lingual support
-- [ ] Web interface
-- [ ] Confidence calibration
-- [ ] Batch evaluation
+- [ ] Web interface for results visualization
+- [ ] Confidence calibration analysis
+- [ ] Real-time evaluation dashboard
 
 ---
 
