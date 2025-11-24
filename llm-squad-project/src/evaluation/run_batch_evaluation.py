@@ -105,8 +105,12 @@ class BatchEvaluator:
         Returns:
             True if successful, False otherwise
         """
+        # Use venv Python if available, otherwise system Python
+        venv_python = self.project_root / 'venv' / 'bin' / 'python'
+        python_cmd = str(venv_python) if venv_python.exists() else 'python'
+
         cmd = [
-            'python', str(self.eval_script),
+            python_cmd, str(self.eval_script),
             '--provider', config['provider'],
             '--model', config['model'],
             '--dataset', config['dataset'],
@@ -199,6 +203,10 @@ class BatchEvaluator:
         print("GENERATING COMPARISON VISUALIZATIONS")
         print("="*70)
 
+        # Use venv Python if available, otherwise system Python
+        venv_python = self.project_root / 'venv' / 'bin' / 'python'
+        python_cmd = str(venv_python) if venv_python.exists() else 'python'
+
         # Generate visualizations for each dataset
         for dataset in ['squad', 'wikipedia_clean', 'wikipedia_noisy']:
             results_dir = self.results_dir / dataset
@@ -210,7 +218,7 @@ class BatchEvaluator:
             print(f"\nGenerating visualizations for: {dataset}")
 
             viz_cmd = [
-                'python',
+                python_cmd,
                 str(self.project_root / 'src' / 'evaluation' / 'visualize_results.py'),
                 '--results-dir', str(results_dir)
             ]
