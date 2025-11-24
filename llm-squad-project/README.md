@@ -376,11 +376,9 @@ prompt_registry.add_template('custom', CustomPrompt())
 
 ## 📖 Documentation
 
+- **📊 Results Summary**: [RESULTS_SUMMARY.md](RESULTS_SUMMARY.md) - Comprehensive evaluation results and analysis
 - **🔐 Security Guide**: [SECURITY.md](SECURITY.md) - API key management and security best practices
 - **🔑 API Keys Setup**: [docs/API_KEYS_GUIDE.md](docs/API_KEYS_GUIDE.md) - How to get and configure API keys
-- **Project Structure**: [docs/structure.md](docs/structure.md)
-- **Evaluation Guide**: [docs/evaluation.md](docs/evaluation.md)
-- **API Reference**: [docs/api.md](docs/api.md)
 
 ## 🤝 Contributing
 
