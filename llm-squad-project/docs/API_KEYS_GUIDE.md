@@ -44,8 +44,8 @@ The API keys you provided returned authentication errors:
 
 **Important Notes:**
 - Requires approval process (can take 1-2 days)
-- Claude Sonnet: ~$0.003 per 1K input tokens, ~$0.015 per 1K output tokens
-- Claude Haiku: Faster and cheaper option
+- Claude Sonnet 4.5 (`claude-sonnet-4-5-20250929`): ~$0.003 per 1K input tokens, ~$0.015 per 1K output tokens
+- Claude Haiku 3.5 (`claude-3-5-haiku-20241022`): Faster and cheaper option
 
 ### Hugging Face (Llama-2, Mistral, etc.)
 

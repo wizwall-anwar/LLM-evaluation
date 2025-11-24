@@ -169,6 +169,7 @@ python src/evaluation/visualize_results.py \
 ### Anthropic
 - Claude Sonnet 4.5
 - Claude Opus
+- Claude Haiku 3.5
 
 ### HuggingFace
 - Llama-2-70b-chat
@@ -213,9 +214,14 @@ python src/evaluation/evaluate_llm.py \
   --provider openai --model gpt-4 \
   --dataset wikipedia_clean --prompt zero_shot
 
-# Claude
+# Claude Sonnet
 python src/evaluation/evaluate_llm.py \
   --provider anthropic --model claude-sonnet-4-5-20250929 \
+  --dataset wikipedia_clean --prompt zero_shot
+
+# Claude Haiku (faster, cheaper)
+python src/evaluation/evaluate_llm.py \
+  --provider anthropic --model claude-3-5-haiku-20241022 \
   --dataset wikipedia_clean --prompt zero_shot
 
 # Visualize
